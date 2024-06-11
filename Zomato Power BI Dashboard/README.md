@@ -44,6 +44,32 @@ The objective of this project is to analyze the Zomato Restaurants dataset to un
 24. Marital Status: Marital status of the user.
 25. Occupation: Profession or occupation of the user.
 
+# Here's what you can expect from this dashboard:
+1. ComprehensiveFood Delivery Insights: Uncover factors driving restaurant success, including customer ratings, reviews, and cuisine types, providing actionable strategies for improvement.
+
+2. Dynamic Sales Trend Analysis: Dive deep into order patterns over time, assessing revenue metrics and identifying growth opportunities within the market.
+
+3. Global Restaurant Distribution Overview: Explore the geographical presence of restaurants, understanding their impact on regional sales and customer engagement.
+
+4. Robust Demographic Analysis: Gain insights into user age, gender, and marital status, tailoring marketing strategies to specific customer segments.
+
+5. Competitive Benchmarking and Growth Strategies: Compare against industry rivals, leveraging insights to develop effective growth strategies and outperform competitors.
+
+# 🛠️ Tools & Techniques Utilized:
+
+DAX Functions: Leveraged DAX functions to compute complex metrics and drive insightful analysis.
+
+Dynamic Measures Implemented dynamic measures for adaptable analytics, ensuring relevance across various scenarios.
+
+Data Modelling: Employed robust data modeling techniques for efficient data representation and analysis.
+
+Many-to-Many Relationships: Overcame challenges with many-to-many relationships by implementing a bridge table for seamless data integration.
+
+Toggle Buttons: Enhanced user experience with toggle buttons for interactive exploration of insights.
+
+Visualizations: Designed visually appealing and informative visuals to facilitate better understanding and interpretation of data.
+
+
 # Key Insights :
 I processed the data and removed the NAN values from the sentiment column and removed the incorrect values in the Category column and NAN from the Rating column.
 1.   Zomato serves in 150,281 locations and collaborates with 77,929 restaurants, handling 150,281 orders.
