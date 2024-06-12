@@ -1,4 +1,4 @@
-# Bank_Loan_Project
+![image](https://github.com/MohdMonish24/Power_BI_Projects/assets/122079171/a3c2d368-699e-4710-aa5d-161c997d8b54)# Bank_Loan_Project
 Finance Domain | Bank Loan Analysis
 
 This repository contains the code and documentation for the Customized Bank Loan Report project. Below you'll find the domain knowledge in `domain_knowledge.md`, problem statement in `problem_statement.md` and an overview of the solution implemented using SQL and Power BI.
@@ -14,7 +14,7 @@ To read the problem statement, please refer to [Problem Statement](https://githu
 Dashboard
 
 Summary:
-![image]()
+![image](https://github.com/306Shubham/Bank-Loan-Data-Analysis/blob/main/5.%20Dashboard/Bank%20Loan.pdf)
 
 Overview:
 ![image]()
