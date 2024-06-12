@@ -11,6 +11,12 @@ To read the domain knowledge, please refer to  [Domain Knowledge](https://github
 
 To read the problem statement, please refer to [Problem Statement](https://github.com/MohdMonish24/Power_BI_Projects/blob/main/Bank_Loan_Data_Analysis_Power_BI_with_SQL/Problem_statement.md)
 
+### Power BI Implementation
+
+Click the button below to view the Power BI dashboard:
+
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Click%20Here-blue)](https://app.powerbi.com/groups/me/reports/01b8c90c-483b-40c9-ac0f-403147466f12/ReportSection?experience=power-bi)
+
 
 ### SQL Implementation
 
