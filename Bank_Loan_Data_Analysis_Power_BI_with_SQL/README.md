@@ -14,13 +14,13 @@ To read the problem statement, please refer to [Problem Statement](https://githu
 Dashboard
 
 Summary:
-![image](https://github.com/306Shubham/Bank-Loan-Data-Analysis/assets/86708136/e1a660a0-6281-482b-a7aa-ff69128fb66d)
+![image]()
 
 Overview:
-![image](https://github.com/306Shubham/Bank-Loan-Data-Analysis/assets/86708136/c2d9bd8f-6183-41d7-8402-518560541093)
+![image]()
 
 Details:
-![image](https://github.com/306Shubham/Bank-Loan-Data-Analysis/assets/86708136/29cd4d26-09f6-4f9c-abc0-464c8acd4db8)
+![image]()
 
 
 
