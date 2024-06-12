@@ -11,20 +11,6 @@ To read the domain knowledge, please refer to  [Domain Knowledge](https://github
 
 To read the problem statement, please refer to [Problem Statement](https://github.com/MohdMonish24/Power_BI_Projects/blob/main/Bank_Loan_Data_Analysis_Power_BI_with_SQL/Problem_statement.md)
 
-Dashboard
-
-Summary:
-![image](https://github.com/306Shubham/Bank-Loan-Data-Analysis/blob/main/5.%20Dashboard/Bank%20Loan.pdf)
-
-Overview:
-![image]()
-
-Details:
-![image]()
-
-
-
-
 ### SQL Implementation
 
 # KPI'S
