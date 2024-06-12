@@ -27,6 +27,9 @@ Click the button below to view the Power BI dashboard:
 select count(id) as total_loan_applications from bank_loan_data;
 ```
 <strong>Output:</strong><br>
+
+![image](https://github.com/MohdMonish24/Power_BI_Projects/assets/122079171/0d2ddbdd-c54f-47d3-9140-d5635b52c944)
+
 ![Total loan applications](images/image1.png)
 
 
