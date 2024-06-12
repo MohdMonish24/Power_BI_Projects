@@ -1,7 +1,3 @@
-
-# Bank_Loan_Project
-Finance Domain | Bank Loan Analysis
-
 ### SQL Implementation
 
 # KPI'S
@@ -276,8 +272,7 @@ WHERE
 	loan_status IN ('Charged Off');
 
 ```
-<strong>Output:</strong><br>
-![Bad Loan Applications](images/image8.3.png)
+
 
 ### 8.4 Bad Loan Total Amount Received
 ```sql
@@ -288,5 +283,3 @@ FROM
 WHERE
 	loan_status IN ('Charged Off');
 ```
-<strong>Output:</strong><br>
-![Bad Loan Total Amount Received](images/image8.4.png)
